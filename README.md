@@ -1,4 +1,4 @@
-# CSE539-RSA-Operations
+# RSA-Operations
 
 You are provided with a C++ RSA library. You can extract the required files from the given Zip file.
  
